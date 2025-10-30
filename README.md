@@ -33,7 +33,7 @@ Projeyi yerel makinenizde derlemek ve çalıştırmak için aşağıdaki adımla
 
 1.  **Depoyu klonlayın:**
     ```bash
-    git clone https://github.com/kullanici-adiniz/c-airport-takeoff-scheduler.git
+    git clone https://github.com/fevzisuhansahin/c-airport-takeoff-scheduler.git
     ```
 
 2.  **Proje dizinine gidin:**
